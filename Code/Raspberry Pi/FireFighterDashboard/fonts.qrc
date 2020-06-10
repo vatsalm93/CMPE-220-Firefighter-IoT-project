@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Fonts/Aero Matics Regular.ttf</file>
+        <file>Fonts/custom_font.ttf</file>
+        <file>Fonts/Swis721_Cn_BT_Bold.ttf</file>
+        <file>Fonts/swiss.ttf</file>
+        <file>Fonts/swissb.ttf</file>
+        <file>Fonts/swissbi.ttf</file>
+        <file>Fonts/swissi.ttf</file>
+    </qresource>
+</RCC>
